@@ -16,51 +16,55 @@ normie terminal is meant to be a terminal for normies, like me. Do you miss the 
 <p>You can write your terminal in any language you like. Just change nt.c to nt.py or whatever you like. It's your perogative. Unlike other terminals written in C, or Rust, you can write this in assembly if you so choose. Or JavaScript (if you hate your computer).</p>
 <h1>Installation</h1>
 <p>I've given you a Makefile template. You don't have to use it if you don't need it. Figure it out. If you're using this as your only terminal during the configuration process (writing it from scratch), a temporary usable version can be created like so:
+
 ```
+
 git clone https://git.suckless.org/st normie-terminal
+
 make install
+
 ```
 
 This temporary version can be used to bootstrap your own, superior terminal that you'll definitely finish one day. Feel free to openly complain about this code you use on a daily basis because you can't finish your own, supposedly better version. (the GNU approach!)
 <h1>Supported Platforms</h1>
 <p>NEW: 22/02/2020: ARM support
-6502
-6809
-680x0
-8080
-8051
-Alpha
-ARC
-Thumb/T32
-A64
-AVR
-AVR32
-Blackfin
-CDC 6000
-Crusoe
-Elbrus
-DLX
-eSI-RISC
-Itanium
-M32R
-Mico32
-MIPS
-MMIX
-NS320xx
-OpenRISC
-PA-RISC
-PDP-8
-PDP-11
-RISC-V
-S+core
-SuperH
-System/360
-Transputer
-VAX
-Z80
-x86
-ARM64
-PPC
+- 6502
+- 6809
+- 680x0
+- 8080
+- 8051
+- Alpha
+- ARC
+- Thumb/T32
+- A64
+- AVR
+- AVR32
+- Blackfin
+- CDC 6000
+- Crusoe
+- Elbrus
+- DLX
+- eSI-RISC
+- Itanium
+- M32R
+- Mico32
+- MIPS
+- MMIX
+- NS320xx
+- OpenRISC
+- PA-RISC
+- PDP-8
+- PDP-11
+- RISC-V
+- S+core
+- SuperH
+- System/360
+- Transputer
+- VAX
+- Z80
+- x86
+- ARM64
+- PPC
 </p>
 <h1>Motivation</h1>
 <p>Satire.</p>

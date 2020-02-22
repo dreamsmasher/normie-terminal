@@ -2,7 +2,7 @@
 <h2>Abandon All Hope, Ye Who Enter Here</h2> <h3>This is undoubtedly the most ugly program in the distribution... We are trying to clean things up as we go, but there is still a lot of work to do.</h3>
 <p>As you can see, even suckless' developers don't believe in their own code. Therefore, I'm providing an even more minimalist terminal emulator:</p>
 <h1>normie terminal.</h1>
-<p>While there are alternatives to nt, they're bloated. xterm has over 65 THOUSAND lines of code, and even the supposedly "minimalist" st has 2599 lines of code. normie terminal is only 2 lines long. Editing the source code to configure your terminal is only an illusion of choice. You're still limited to the features already implemented in the code. If you want to add more features, you still have to work around code written by developers you don't EVEN KNOW. </p>
+<p>While there are alternatives to nt, they're bloated. xterm has over 65 THOUSAND lines of code, and even the supposedly "minimalist" st has 2599 lines of code. normie terminal is only 4 lines long. Editing the source code to configure your terminal is only an illusion of choice. You're still limited to the features already implemented in the code. If you want to add more features, you still have to work around code written by developers you don't EVEN KNOW. </p>
 
 <p>normie terminal gives you the framework to build your own terminal from the ground up. Therefore, I've given you zero libraries, zero dependencies, and zero documentation. When you write your terminal, you'll know that every single line of code came from you and you alone. Adding new features is incredibly easy when you know exactly what you have to work around in order to get everything working. Trust nobody, not even me. </p>
 

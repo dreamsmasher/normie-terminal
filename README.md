@@ -8,8 +8,11 @@
 
 Why bother building from source? Build from your mind. Whether or not your terminal is bloated is completely up to you. You can make it as minimalist as you want (though not as minimalist as this). You have choice. You have control. You have agency.
 
-normie terminal is meant to be a terminal for normies, like me. Do you miss the elitism of difficult-to-install or hard-to-use programs? Welcome home. normie terminal is designed to make things as hard as possible during the installation process. However, once you get it working, you'll be amazed at how personal your terminal will become. It's the perfect challenge if you have endless time.
+normie terminal is meant to be a terminal for normies, like me. Do you miss the elitism of difficult-to-install or hard-to-use programs? Welcome home. normie terminal is designed to make things as hard as possible during the installation process. The best part is that you're not only able to, but obligated to be elitist once you build your own normie terminal. The unique normie License forces you to be a snob about creating your own terminal from scratch (you definitely deserve to be one). 
 
+Once you get it working, you'll be amazed at how personal your terminal will become. It's the perfect challenge if you have endless time.
+
+Good Luck!
 
 </h2>
 <h1>Languages</h1>

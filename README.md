@@ -52,7 +52,7 @@ This temporary version can be used to bootstrap your own, superior terminal that
 - M32R
 - Mico32
 - MIPS
-- MMIX
+- MMIXe 
 - NS320xx
 - OpenRISC
 - PA-RISC
@@ -74,3 +74,5 @@ This temporary version can be used to bootstrap your own, superior terminal that
 <h1>Troubleshooting</h1>
 <p>https://google.com</p>
 <br>
+<h1>License</h1>
+This project is licensed under the innovative new *normie License*, which legally binds you from helping anyone build their own normie terminal. It also prevents you from adding any documentation, comments, or git commit messages other than "Good luck!". The license is unique in that, once you finally build your terminal (you definitely will, right?), you're legally bound to be an elitist, self-righteous dick whenever you talk about your terminal. Violations of the license leave you open to legal trouble - under the license, original authors of software are obligated to keep a list of anyone who violates the terms of their software, and to choose one at random to be held responsible if damage occurs from anyone (yes, anyone) using the software. These terms are deterrents to keep anybody except the truly elite from using normie Terminal or other normie Licensed software, because why would you want it any other way?
